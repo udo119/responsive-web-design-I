@@ -70,7 +70,16 @@ nav{
 }
 
 h1{
-	font-size: 85px;
+	font-size: 5rem;
+}
+p.Innovation{
+    margin: 1%;
+}
+p.On{
+    margin: 7%;
+}
+p.Demand{
+    margin: 1%;
 }
 .imgandheader{
 	display: flex;
@@ -278,4 +287,49 @@ p.Demand{
 	}
 	.about h3{
 		display: flex;
+    }
+    .p2{
+		flex-direction: column;
 	}
+	.services{
+		display: flex;
+		margin-left: 2%;
+		width: 100%;
+		flex-direction: column;
+		padding-bottom: 15%;
+	}
+	.services h3{
+		display: flex;
+	}
+	.product{
+		display: flex;
+		margin-left: 2%;
+		width: 100%;
+		flex-direction: column;
+		padding-bottom: 15%;
+	}
+	.product h3{
+		display: flex;
+	}
+	.vision{
+		display: flex;
+		margin-left: 2%;
+		width: 100%;
+		flex-direction: column;
+		padding-bottom: 15%;
+	}
+	.vision h3{
+		display: flex;
+	}
+	p {
+		text-align: left;
+	}
+	footer h3{
+		display: flex;
+	}
+	.middle-img{
+		width: 100%;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+}
