@@ -248,4 +248,34 @@ p.Demand{
 	.navbar{
 		flex-direction: column-reverse;
 		text-align: center;
+    }
+    .imgandheader img{
+		display: none;
+	}
+	.blackbar{
+		display: flex;
+		flex-direction: column;
+	}
+	.p1{
+		flex-direction: column;
+	}
+	.features{
+		display: flex;
+		margin-right: 23%;
+		width: 100%;
+		flex-direction: column;
+		padding-bottom: 15%;
+	}
+	.features h3{
+		display: flex;
+	}
+	.about{
+		display: flex;
+		margin-left: 2%;
+		width: 100%;
+		flex-direction: column;
+		padding-bottom: 5%;
+	}
+	.about h3{
+		display: flex;
 	}
