@@ -197,4 +197,22 @@ p.Demand{
 	}
 	.middle-img{
 		width: 100%;
+    }
+    .section2{
+		display: flex;
+		justify-content: space-evenly;
 	}
+	.features{
+		margin-left: 2%;
+	}
+	.services{
+		margin-left: 2%;
+	}
+	.servicesand{
+		display: flex;
+		justify-content: space-evenly;
+	}
+	footer{
+		padding-left: 1%;
+	}
+}
