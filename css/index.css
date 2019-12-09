@@ -184,5 +184,17 @@ p.Demand{
 	.a{
 		padding-top: 2%;
 		text-align: center;
+    }
+    .imgandheader{
+		padding-bottom: 15%;
 	}
-
+	.imgandheader img{
+		display: none;
+	}
+	.inn{
+		width:100%;
+		margin-left: 50%;
+	}
+	.middle-img{
+		width: 100%;
+	}
